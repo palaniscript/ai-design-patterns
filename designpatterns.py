@@ -2,7 +2,7 @@
 
 import streamlit as st
 from PIL import Image
-from openai import OpenAI
+#from openai import OpenAI
 import prompts
 
 #OPENAICLIENT = OpenAI()
